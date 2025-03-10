@@ -1,6 +1,7 @@
 # BandBase
-BandBase is a comprehensive platform for hiring musicians, booking gigs and managing bands, concert halls, rehearsal rooms and recording studios.
+Band base is an app that connects musicians, bookers and club owners.
 
 UML class diagram:
 
-![image](https://github.com/user-attachments/assets/256c48f7-0cfc-4768-a91e-241f65f71541)
+![image](https://github.com/user-attachments/assets/d9f7c936-e35b-44b3-9948-ba7a4b6862d7)
+
